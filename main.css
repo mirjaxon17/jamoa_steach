@@ -44,3 +44,138 @@ body {
     padding-right: 20px;
 
 }
+
+.about{
+    background: #1B3544;
+    margin-top: 80px;
+}
+.about-box{
+    background-image: url(/img/about.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    padding: 150px;
+    
+}
+.about_container{
+    display: flex;
+    align-items: center;
+    gap: 96px;
+}
+.about_title{
+    color: #FFF;
+    font-family: PT Serif;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin-bottom: 17px;
+}
+.about_text{
+    width: 359px;
+    color: #E5E5E5;
+    font-family: Poppins;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 22px;
+    margin-bottom: 26px;
+}
+.about_btn{
+    width: 330px;
+    height: 2px;
+    background: rgba(255, 255, 255, 0.13);
+    display: block;
+}
+/* .about_box1{
+    display: flex;
+} */
+.title{
+    color: #FFF;
+    margin-right: 8px;
+    font-family: PT Serif;
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+.text{
+    color: #FFF;
+    font-family: PT Serif;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+.title1{
+    color: #FFF;
+    margin-left: 33px;
+    font-family: PT Serif;
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+.text1{
+    color: #FFF;    
+    margin-left: 8px;
+    font-family: PT Serif;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+.btn{
+    width: 2px;
+    margin-left: 31px;
+    height: 51px;
+    background: rgba(255, 255, 255, 0.46);
+    display: inline-block;
+}
+.title2{
+    color: #FFF;
+    font-family: Poppins;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 500;
+    margin-left: 29px;
+    line-height: normal;
+}
+.text2{
+    color: #FFF;
+    font-family: Poppins;
+    font-size: 10px;
+    font-style: normal;
+    font-weight: 400;
+    margin-left: 29px;
+    line-height: normal;
+}
+.about_box1{
+    display: flex;
+    align-items: center;
+}
+.about_list{
+    display: flex;
+    align-items: center;
+    margin-top: 40px;
+}
+.text3{
+    color: #FFF;
+    margin-left: 38px;
+    font-family: Poppins;
+    font-size: 10px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+
+
+
+
+
+
+
+
+
+
+
